@@ -1,6 +1,6 @@
 # ASB: Adaptive search for broad attention based vision transformers
 This repository contains the official implementation of Adaptive search for broad attention based vision transformers
-![alt](https://github.com/koala719/BViT/blob/main/figs/overall_b.png)
+![alt](https://github.com/Bpumpkin/ASB/blob/main/figs/evolve2.pdf)
 
 
 ## Model Results
